@@ -1,3 +1,7 @@
+#Aruzhan Bissimbayeva ADA-2403M
+#practice 3, task_3
+
+%%writefile task_3_cuda.cu
 
 // Подключаем необходимые библиотеки
 #include <iostream>      // Для стандартного ввода-вывода в консоль
